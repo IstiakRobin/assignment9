@@ -1,0 +1,62 @@
+{
+    "students":
+    [
+        {
+            "Name" : "Istiak Robin",
+            "Age" : 22,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Shahab Uddin",
+            "Age" : 22,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Rubel Hossain",
+            "Age" : 21,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Mohammad Raza",
+            "Age" : 22,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Abdur Razzak",
+            "Age" : 22,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Faisal Kabir",
+            "Age" : 23,
+            "Skill" : "MERN STACK"
+        }
+
+    ],
+
+    "Teachers":
+    [
+        {
+            "Name" : "Ashraful Hoque",
+            "Age" : 32,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Maruful Hossain",
+            "Age" : 26,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Munira Akter",
+            "Age" : 23,
+            "Skill" : "MERN STACK"
+        },
+        {
+            "Name" : "Nahiyan Khandakar",
+            "Age" : 24,
+            "Skill" : "MERN STACK"
+        }
+
+    ]
+}
+
